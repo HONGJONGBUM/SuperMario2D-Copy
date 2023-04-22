@@ -1,0 +1,4448 @@
+fileFormatVersion: 2
+guid: e14dc0cb06c86a048958b86532544292
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1857927939395831798
+    second: Arcade - Snow Bros 2 With New Elves - Nick_0
+  - first:
+      213: 4994666765343510355
+    second: Arcade - Snow Bros 2 With New Elves - Nick_1
+  - first:
+      213: -6366510609859887878
+    second: Arcade - Snow Bros 2 With New Elves - Nick_2
+  - first:
+      213: -8947015788120870468
+    second: Arcade - Snow Bros 2 With New Elves - Nick_3
+  - first:
+      213: -4812429997421503602
+    second: Arcade - Snow Bros 2 With New Elves - Nick_4
+  - first:
+      213: -8241628659218525760
+    second: Arcade - Snow Bros 2 With New Elves - Nick_5
+  - first:
+      213: 3166810488272703960
+    second: Arcade - Snow Bros 2 With New Elves - Nick_6
+  - first:
+      213: 351240921496057421
+    second: Arcade - Snow Bros 2 With New Elves - Nick_7
+  - first:
+      213: 7560434625090391941
+    second: Arcade - Snow Bros 2 With New Elves - Nick_8
+  - first:
+      213: -3048351884257649687
+    second: Arcade - Snow Bros 2 With New Elves - Nick_9
+  - first:
+      213: -6002908811064491036
+    second: Arcade - Snow Bros 2 With New Elves - Nick_10
+  - first:
+      213: -4043220536832089639
+    second: Arcade - Snow Bros 2 With New Elves - Nick_11
+  - first:
+      213: -2838158655631420749
+    second: Arcade - Snow Bros 2 With New Elves - Nick_12
+  - first:
+      213: 4891507088354693077
+    second: Arcade - Snow Bros 2 With New Elves - Nick_13
+  - first:
+      213: 7407744559141573096
+    second: Arcade - Snow Bros 2 With New Elves - Nick_14
+  - first:
+      213: -3768461703134532499
+    second: Arcade - Snow Bros 2 With New Elves - Nick_15
+  - first:
+      213: -8082807876766249943
+    second: Arcade - Snow Bros 2 With New Elves - Nick_16
+  - first:
+      213: -1403155145905309575
+    second: Arcade - Snow Bros 2 With New Elves - Nick_17
+  - first:
+      213: 4043821725329315503
+    second: Arcade - Snow Bros 2 With New Elves - Nick_18
+  - first:
+      213: -1927922791761897391
+    second: Arcade - Snow Bros 2 With New Elves - Nick_19
+  - first:
+      213: -6672656747165399365
+    second: Arcade - Snow Bros 2 With New Elves - Nick_20
+  - first:
+      213: 6517944602811762008
+    second: Arcade - Snow Bros 2 With New Elves - Nick_21
+  - first:
+      213: -146691426653409082
+    second: Arcade - Snow Bros 2 With New Elves - Nick_22
+  - first:
+      213: 4828109234334402222
+    second: Arcade - Snow Bros 2 With New Elves - Nick_23
+  - first:
+      213: 6313873498946757141
+    second: Arcade - Snow Bros 2 With New Elves - Nick_24
+  - first:
+      213: 5983345801279167673
+    second: Arcade - Snow Bros 2 With New Elves - Nick_25
+  - first:
+      213: -2040218121187314193
+    second: Arcade - Snow Bros 2 With New Elves - Nick_26
+  - first:
+      213: 3750607469022664869
+    second: Arcade - Snow Bros 2 With New Elves - Nick_27
+  - first:
+      213: 1811759541085524222
+    second: Arcade - Snow Bros 2 With New Elves - Nick_28
+  - first:
+      213: -7519916725823834136
+    second: Arcade - Snow Bros 2 With New Elves - Nick_29
+  - first:
+      213: -2892108869032035488
+    second: Arcade - Snow Bros 2 With New Elves - Nick_30
+  - first:
+      213: 5149128454158099870
+    second: Arcade - Snow Bros 2 With New Elves - Nick_31
+  - first:
+      213: -2219176766039109201
+    second: Arcade - Snow Bros 2 With New Elves - Nick_32
+  - first:
+      213: 292010765603631061
+    second: Arcade - Snow Bros 2 With New Elves - Nick_33
+  - first:
+      213: 8826203116130433637
+    second: Arcade - Snow Bros 2 With New Elves - Nick_34
+  - first:
+      213: 3942431318956791805
+    second: Arcade - Snow Bros 2 With New Elves - Nick_35
+  - first:
+      213: -2004833723406908228
+    second: Arcade - Snow Bros 2 With New Elves - Nick_36
+  - first:
+      213: -6586306706706307936
+    second: Arcade - Snow Bros 2 With New Elves - Nick_37
+  - first:
+      213: 939998596299418004
+    second: Arcade - Snow Bros 2 With New Elves - Nick_38
+  - first:
+      213: -1626843386763014949
+    second: Arcade - Snow Bros 2 With New Elves - Nick_39
+  - first:
+      213: -4198630463112967752
+    second: Arcade - Snow Bros 2 With New Elves - Nick_40
+  - first:
+      213: -7827722671773313251
+    second: Arcade - Snow Bros 2 With New Elves - Nick_41
+  - first:
+      213: -487835680598878409
+    second: Arcade - Snow Bros 2 With New Elves - Nick_42
+  - first:
+      213: -1612082487631526063
+    second: Arcade - Snow Bros 2 With New Elves - Nick_43
+  - first:
+      213: 8462099872377280981
+    second: Arcade - Snow Bros 2 With New Elves - Nick_44
+  - first:
+      213: -2566741278092673316
+    second: Arcade - Snow Bros 2 With New Elves - Nick_45
+  - first:
+      213: -990023411193623820
+    second: Arcade - Snow Bros 2 With New Elves - Nick_46
+  - first:
+      213: -7810832741771760023
+    second: Arcade - Snow Bros 2 With New Elves - Nick_47
+  - first:
+      213: 7142577320168028731
+    second: Arcade - Snow Bros 2 With New Elves - Nick_48
+  - first:
+      213: -1276001656619095871
+    second: Arcade - Snow Bros 2 With New Elves - Nick_49
+  - first:
+      213: -1137677611475720222
+    second: Arcade - Snow Bros 2 With New Elves - Nick_50
+  - first:
+      213: -3860753703143482548
+    second: Arcade - Snow Bros 2 With New Elves - Nick_51
+  - first:
+      213: -3396677543493752570
+    second: Arcade - Snow Bros 2 With New Elves - Nick_52
+  - first:
+      213: -4421962432095338124
+    second: Arcade - Snow Bros 2 With New Elves - Nick_53
+  - first:
+      213: -7815401804921454568
+    second: Arcade - Snow Bros 2 With New Elves - Nick_54
+  - first:
+      213: -7325634847704250644
+    second: Arcade - Snow Bros 2 With New Elves - Nick_55
+  - first:
+      213: 709250986692013692
+    second: Arcade - Snow Bros 2 With New Elves - Nick_56
+  - first:
+      213: -1693027689641560153
+    second: Arcade - Snow Bros 2 With New Elves - Nick_57
+  - first:
+      213: -7371120655788848593
+    second: Arcade - Snow Bros 2 With New Elves - Nick_58
+  - first:
+      213: 9194753897071730003
+    second: Arcade - Snow Bros 2 With New Elves - Nick_59
+  - first:
+      213: -702294407924712816
+    second: Arcade - Snow Bros 2 With New Elves - Nick_60
+  - first:
+      213: 6725965886211517313
+    second: Arcade - Snow Bros 2 With New Elves - Nick_61
+  - first:
+      213: 110896088606680549
+    second: Arcade - Snow Bros 2 With New Elves - Nick_62
+  - first:
+      213: -8663418342077815182
+    second: Arcade - Snow Bros 2 With New Elves - Nick_63
+  - first:
+      213: -5925563209469271442
+    second: Arcade - Snow Bros 2 With New Elves - Nick_64
+  - first:
+      213: -6798928201375870582
+    second: Arcade - Snow Bros 2 With New Elves - Nick_65
+  - first:
+      213: 1474100581073720557
+    second: Arcade - Snow Bros 2 With New Elves - Nick_66
+  - first:
+      213: 5847751133249944325
+    second: Arcade - Snow Bros 2 With New Elves - Nick_67
+  - first:
+      213: -5670897277766290489
+    second: Arcade - Snow Bros 2 With New Elves - Nick_68
+  - first:
+      213: 7662780914328945765
+    second: Arcade - Snow Bros 2 With New Elves - Nick_69
+  - first:
+      213: -8068721665030892528
+    second: Arcade - Snow Bros 2 With New Elves - Nick_70
+  - first:
+      213: -6290222422672454394
+    second: Arcade - Snow Bros 2 With New Elves - Nick_71
+  - first:
+      213: 4764999923733298908
+    second: Arcade - Snow Bros 2 With New Elves - Nick_72
+  - first:
+      213: 8869221450567255189
+    second: Arcade - Snow Bros 2 With New Elves - Nick_73
+  - first:
+      213: 1942860482055228173
+    second: Arcade - Snow Bros 2 With New Elves - Nick_74
+  - first:
+      213: 1194544821399551938
+    second: Arcade - Snow Bros 2 With New Elves - Nick_75
+  - first:
+      213: 8930888421625182504
+    second: Arcade - Snow Bros 2 With New Elves - Nick_76
+  - first:
+      213: 1674390167477348173
+    second: Arcade - Snow Bros 2 With New Elves - Nick_77
+  - first:
+      213: 8832168385425305688
+    second: Arcade - Snow Bros 2 With New Elves - Nick_78
+  - first:
+      213: 678574466850309671
+    second: Arcade - Snow Bros 2 With New Elves - Nick_79
+  - first:
+      213: -8311556905910380280
+    second: Arcade - Snow Bros 2 With New Elves - Nick_80
+  - first:
+      213: 3684807168073356480
+    second: Arcade - Snow Bros 2 With New Elves - Nick_81
+  - first:
+      213: 7439829064313123555
+    second: Arcade - Snow Bros 2 With New Elves - Nick_82
+  - first:
+      213: -3667247840695769857
+    second: Arcade - Snow Bros 2 With New Elves - Nick_83
+  - first:
+      213: -554543910177101004
+    second: Arcade - Snow Bros 2 With New Elves - Nick_84
+  - first:
+      213: -958408559765333485
+    second: Arcade - Snow Bros 2 With New Elves - Nick_85
+  - first:
+      213: 4659712339282973240
+    second: Arcade - Snow Bros 2 With New Elves - Nick_86
+  - first:
+      213: -8739694642194582890
+    second: Arcade - Snow Bros 2 With New Elves - Nick_87
+  - first:
+      213: -3296800434164670778
+    second: Arcade - Snow Bros 2 With New Elves - Nick_88
+  - first:
+      213: -6350889806927953360
+    second: Arcade - Snow Bros 2 With New Elves - Nick_89
+  - first:
+      213: -4129479353982241548
+    second: Arcade - Snow Bros 2 With New Elves - Nick_90
+  - first:
+      213: -3712060240676910935
+    second: Arcade - Snow Bros 2 With New Elves - Nick_91
+  - first:
+      213: 7046145021714846986
+    second: Arcade - Snow Bros 2 With New Elves - Nick_92
+  - first:
+      213: 5733046658253454512
+    second: Arcade - Snow Bros 2 With New Elves - Nick_93
+  - first:
+      213: 3077621871690144754
+    second: Arcade - Snow Bros 2 With New Elves - Nick_94
+  - first:
+      213: 2803996870110798450
+    second: Arcade - Snow Bros 2 With New Elves - Nick_95
+  - first:
+      213: 188875491058632391
+    second: Arcade - Snow Bros 2 With New Elves - Nick_96
+  - first:
+      213: 7465739402092133807
+    second: Arcade - Snow Bros 2 With New Elves - Nick_97
+  - first:
+      213: 4355116577166665787
+    second: Arcade - Snow Bros 2 With New Elves - Nick_98
+  - first:
+      213: 5709730387227531456
+    second: Arcade - Snow Bros 2 With New Elves - Nick_99
+  - first:
+      213: 4118948886502728569
+    second: Arcade - Snow Bros 2 With New Elves - Nick_100
+  - first:
+      213: 7531937081091440770
+    second: Arcade - Snow Bros 2 With New Elves - Nick_101
+  - first:
+      213: 7843746544274257621
+    second: Arcade - Snow Bros 2 With New Elves - Nick_102
+  - first:
+      213: 4527435897284501725
+    second: Arcade - Snow Bros 2 With New Elves - Nick_103
+  - first:
+      213: 482081361832188463
+    second: Arcade - Snow Bros 2 With New Elves - Nick_104
+  - first:
+      213: 4887078466089558932
+    second: Arcade - Snow Bros 2 With New Elves - Nick_105
+  - first:
+      213: -8383370087917764719
+    second: Arcade - Snow Bros 2 With New Elves - Nick_106
+  - first:
+      213: -6215970192860592041
+    second: Arcade - Snow Bros 2 With New Elves - Nick_107
+  - first:
+      213: -7245464996225299020
+    second: Arcade - Snow Bros 2 With New Elves - Nick_108
+  - first:
+      213: -8713398986211906223
+    second: Arcade - Snow Bros 2 With New Elves - Nick_109
+  - first:
+      213: 648574045131161892
+    second: Arcade - Snow Bros 2 With New Elves - Nick_110
+  - first:
+      213: -4077055516619886833
+    second: Arcade - Snow Bros 2 With New Elves - Nick_111
+  - first:
+      213: 6096691057397436502
+    second: Arcade - Snow Bros 2 With New Elves - Nick_112
+  - first:
+      213: -3232630942143832418
+    second: Arcade - Snow Bros 2 With New Elves - Nick_113
+  - first:
+      213: 2111130564946813893
+    second: Arcade - Snow Bros 2 With New Elves - Nick_114
+  - first:
+      213: 4844640981727462886
+    second: Arcade - Snow Bros 2 With New Elves - Nick_115
+  - first:
+      213: 9001441984421084586
+    second: Arcade - Snow Bros 2 With New Elves - Nick_116
+  - first:
+      213: -3157174670178701091
+    second: Arcade - Snow Bros 2 With New Elves - Nick_117
+  - first:
+      213: 5356623919754207911
+    second: Arcade - Snow Bros 2 With New Elves - Nick_118
+  - first:
+      213: -4262388363672503472
+    second: Arcade - Snow Bros 2 With New Elves - Nick_119
+  - first:
+      213: 884264356428640520
+    second: Arcade - Snow Bros 2 With New Elves - Nick_120
+  - first:
+      213: -7454669633059893417
+    second: Arcade - Snow Bros 2 With New Elves - Nick_121
+  - first:
+      213: 2040954629194013946
+    second: Arcade - Snow Bros 2 With New Elves - Nick_122
+  - first:
+      213: -4253029881033673111
+    second: Arcade - Snow Bros 2 With New Elves - Nick_123
+  - first:
+      213: -6879584732369275575
+    second: Arcade - Snow Bros 2 With New Elves - Nick_124
+  - first:
+      213: -1211191783587159356
+    second: Arcade - Snow Bros 2 With New Elves - Nick_125
+  - first:
+      213: -6599915180364605694
+    second: Arcade - Snow Bros 2 With New Elves - Nick_126
+  - first:
+      213: 2585950823669053247
+    second: Arcade - Snow Bros 2 With New Elves - Nick_127
+  - first:
+      213: 2633975580315668012
+    second: Arcade - Snow Bros 2 With New Elves - Nick_128
+  - first:
+      213: -5111819374071061509
+    second: Arcade - Snow Bros 2 With New Elves - Nick_129
+  - first:
+      213: -893024365077887902
+    second: Arcade - Snow Bros 2 With New Elves - Nick_130
+  - first:
+      213: -6179825988785393652
+    second: Arcade - Snow Bros 2 With New Elves - Nick_131
+  - first:
+      213: -3008860572584086275
+    second: Arcade - Snow Bros 2 With New Elves - Nick_132
+  - first:
+      213: 399861084158100877
+    second: Arcade - Snow Bros 2 With New Elves - Nick_133
+  - first:
+      213: -1921180876084263446
+    second: Arcade - Snow Bros 2 With New Elves - Nick_134
+  - first:
+      213: -5739480640313879303
+    second: Arcade - Snow Bros 2 With New Elves - Nick_135
+  - first:
+      213: 1312760428919360450
+    second: Arcade - Snow Bros 2 With New Elves - Nick_136
+  - first:
+      213: -6960783590161710607
+    second: Arcade - Snow Bros 2 With New Elves - Nick_137
+  - first:
+      213: -1964158232906385262
+    second: Arcade - Snow Bros 2 With New Elves - Nick_138
+  - first:
+      213: 8792294985375821941
+    second: Arcade - Snow Bros 2 With New Elves - Nick_139
+  - first:
+      213: -7012012375967365116
+    second: Arcade - Snow Bros 2 With New Elves - Nick_140
+  - first:
+      213: 7956268840388223862
+    second: Arcade - Snow Bros 2 With New Elves - Nick_141
+  - first:
+      213: 2296122329184701957
+    second: Arcade - Snow Bros 2 With New Elves - Nick_142
+  - first:
+      213: 3476965837293801182
+    second: Arcade - Snow Bros 2 With New Elves - Nick_143
+  - first:
+      213: 6996642481118073519
+    second: Arcade - Snow Bros 2 With New Elves - Nick_144
+  - first:
+      213: -5502487090113307989
+    second: Arcade - Snow Bros 2 With New Elves - Nick_145
+  - first:
+      213: -1864142352517600534
+    second: Arcade - Snow Bros 2 With New Elves - Nick_146
+  - first:
+      213: 7319809284043135319
+    second: Arcade - Snow Bros 2 With New Elves - Nick_147
+  - first:
+      213: -4366654700128081002
+    second: Arcade - Snow Bros 2 With New Elves - Nick_148
+  - first:
+      213: -8554600979611632710
+    second: Arcade - Snow Bros 2 With New Elves - Nick_149
+  - first:
+      213: 7291891115916904755
+    second: Arcade - Snow Bros 2 With New Elves - Nick_150
+  - first:
+      213: -7977227688654483621
+    second: Arcade - Snow Bros 2 With New Elves - Nick_151
+  - first:
+      213: 6604604127995625729
+    second: Arcade - Snow Bros 2 With New Elves - Nick_152
+  - first:
+      213: -1446017407121580187
+    second: Arcade - Snow Bros 2 With New Elves - Nick_153
+  - first:
+      213: 6915600342018505999
+    second: Arcade - Snow Bros 2 With New Elves - Nick_154
+  - first:
+      213: -1027914463588483
+    second: Arcade - Snow Bros 2 With New Elves - Nick_155
+  - first:
+      213: 873879694288963481
+    second: Arcade - Snow Bros 2 With New Elves - Nick_156
+  - first:
+      213: 632311866769483597
+    second: Arcade - Snow Bros 2 With New Elves - Nick_157
+  - first:
+      213: -1605341687349992999
+    second: Arcade - Snow Bros 2 With New Elves - Nick_158
+  - first:
+      213: -3195104340762022784
+    second: Arcade - Snow Bros 2 With New Elves - Nick_159
+  - first:
+      213: -7014547559571308610
+    second: Arcade - Snow Bros 2 With New Elves - Nick_160
+  - first:
+      213: 1307663190244626495
+    second: Arcade - Snow Bros 2 With New Elves - Nick_161
+  - first:
+      213: -1556973088737382539
+    second: Arcade - Snow Bros 2 With New Elves - Nick_162
+  - first:
+      213: -6128457295849914273
+    second: Arcade - Snow Bros 2 With New Elves - Nick_163
+  - first:
+      213: 7110001031499698109
+    second: Arcade - Snow Bros 2 With New Elves - Nick_164
+  - first:
+      213: 957369684365976662
+    second: Arcade - Snow Bros 2 With New Elves - Nick_165
+  - first:
+      213: -8569288543626486128
+    second: Arcade - Snow Bros 2 With New Elves - Nick_166
+  - first:
+      213: -6812506661638965372
+    second: Arcade - Snow Bros 2 With New Elves - Nick_167
+  - first:
+      213: -2259789855569890570
+    second: Arcade - Snow Bros 2 With New Elves - Nick_168
+  - first:
+      213: 2625994269820595834
+    second: Arcade - Snow Bros 2 With New Elves - Nick_169
+  - first:
+      213: -4286716089384194392
+    second: Arcade - Snow Bros 2 With New Elves - Nick_170
+  - first:
+      213: 4425757367782544726
+    second: Arcade - Snow Bros 2 With New Elves - Nick_171
+  - first:
+      213: 3781585926957867355
+    second: Arcade - Snow Bros 2 With New Elves - Nick_172
+  - first:
+      213: 511595967094157899
+    second: Arcade - Snow Bros 2 With New Elves - Nick_173
+  - first:
+      213: -4322488291687900141
+    second: Arcade - Snow Bros 2 With New Elves - Nick_174
+  - first:
+      213: 5807013751251324544
+    second: Arcade - Snow Bros 2 With New Elves - Nick_175
+  - first:
+      213: -1577961086057114763
+    second: Arcade - Snow Bros 2 With New Elves - Nick_176
+  - first:
+      213: -5554603639807108156
+    second: Arcade - Snow Bros 2 With New Elves - Nick_177
+  - first:
+      213: -6852567411900688058
+    second: Arcade - Snow Bros 2 With New Elves - Nick_178
+  - first:
+      213: -9015328423055043439
+    second: Arcade - Snow Bros 2 With New Elves - Nick_179
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 696
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f746fdfd9fa8c910800000000000000
+      internalID: 1857927939395831798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 696
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fcfbfc5fe905540800000000000000
+      internalID: 4994666765343510355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 696
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcbb80e45c95a7a0800000000000000
+      internalID: -6366510609859887878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 696
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb17e354b80d5d380800000000000000
+      internalID: -8947015788120870468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 696
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bd1492a60d63db0800000000000000
+      internalID: -4812429997421503602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 696
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1d994866adf9d80800000000000000
+      internalID: -8241628659218525760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_6
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 696
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1d9705c55c2fb20800000000000000
+      internalID: 3166810488272703960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 696
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d467a54d1cbdfd400800000000000000
+      internalID: 351240921496057421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 696
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f83101c3f0ce860800000000000000
+      internalID: 7560434625090391941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_9
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 696
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb1e64bc1412b5d0800000000000000
+      internalID: -3048351884257649687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_10
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 696
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e34079bd3261bca0800000000000000
+      internalID: -6002908811064491036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_11
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 696
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d12f89f75893e7c0800000000000000
+      internalID: -4043220536832089639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 648
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b293ea6db5dc98d0800000000000000
+      internalID: -2838158655631420749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 648
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfcfa1d7cf12e340800000000000000
+      internalID: 4891507088354693077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_14
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 648
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1577abd689dc660800000000000000
+      internalID: 7407744559141573096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 648
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ca0031c0cb3bbc0800000000000000
+      internalID: -3768461703134532499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 648
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c4e958f0914df80800000000000000
+      internalID: -8082807876766249943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_17
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 648
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9787d8b34ddf68ce0800000000000000
+      internalID: -1403155145905309575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_18
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 648
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6d2412f6a8e1830800000000000000
+      internalID: 4043821725329315503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_19
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 648
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15817aa7f64ae35e0800000000000000
+      internalID: -1927922791761897391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_20
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 648
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6c71daa06f563a0800000000000000
+      internalID: -6672656747165399365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_21
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 648
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855054c2514647a50800000000000000
+      internalID: 6517944602811762008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_22
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 648
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c07ab6bce8d6fdf0800000000000000
+      internalID: -146691426653409082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_23
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 648
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea60949a4c3e00340800000000000000
+      internalID: 4828109234334402222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 600
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5126975be726f9750800000000000000
+      internalID: 6313873498946757141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 600
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcd19d1e4d190350800000000000000
+      internalID: 5983345801279167673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_26
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 600
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5b056ad60bfa3e0800000000000000
+      internalID: -2040218121187314193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_27
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 600
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8d50b1f95dc0430800000000000000
+      internalID: 3750607469022664869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_28
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 600
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0d3d814b9a42910800000000000000
+      internalID: 1811759541085524222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 600
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e770c08493e3a790800000000000000
+      internalID: -7519916725823834136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_30
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 600
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bb6918e4a2dd7d0800000000000000
+      internalID: -2892108869032035488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_31
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 600
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9523fc3c01657740800000000000000
+      internalID: 5149128454158099870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_32
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 600
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1507e2d76e331e0800000000000000
+      internalID: -2219176766039109201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_33
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 600
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfe4628e3e6d0400800000000000000
+      internalID: 292010765603631061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_34
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 600
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a766c88f8fc7a70800000000000000
+      internalID: 8826203116130433637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_35
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 600
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df75bcd856456b630800000000000000
+      internalID: 3942431318956791805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 552
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb48b92c9566d24e0800000000000000
+      internalID: -2004833723406908228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_37
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 552
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a46ffc22fcb894a0800000000000000
+      internalID: -6586306706706307936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_38
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 552
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499eac53ebb8b0d00800000000000000
+      internalID: 939998596299418004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_39
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 552
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc0cc22f8a4c69e0800000000000000
+      internalID: -1626843386763014949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_40
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 552
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9840fc6d77bb5c0800000000000000
+      internalID: -4198630463112967752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_41
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 552
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d171eacf3b75e5390800000000000000
+      internalID: -7827722671773313251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_42
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 552
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737942d780cda39f0800000000000000
+      internalID: -487835680598878409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_43
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 552
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1574818c48bb0a9e0800000000000000
+      internalID: -1612082487631526063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_44
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 552
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d91de2fffa6f6570800000000000000
+      internalID: 8462099872377280981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_45
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 552
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde34f0286a116cd0800000000000000
+      internalID: -2566741278092673316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_46
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 552
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4facb70f3fab242f0800000000000000
+      internalID: -990023411193623820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_47
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 552
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e24b241095a9390800000000000000
+      internalID: -7810832741771760023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_48
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 504
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a706dca388f1360800000000000000
+      internalID: 7142577320168028731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_49
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 504
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8a86cf04bba4ee0800000000000000
+      internalID: -1276001656619095871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_50
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 504
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e723137d382630f0800000000000000
+      internalID: -1137677611475720222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_51
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 504
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bdbde46f8db6ac0800000000000000
+      internalID: -3860753703143482548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_52
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 504
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609228345c39cd0d0800000000000000
+      internalID: -3396677543493752570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_53
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 504
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471c5d8b89802a2c0800000000000000
+      internalID: -4421962432095338124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_54
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 504
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810c5b8577d1a8390800000000000000
+      internalID: -7815401804921454568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_55
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 504
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce68d5c3bed165a90800000000000000
+      internalID: -7325634847704250644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_56
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 504
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e6f5eb304c7d900800000000000000
+      internalID: 709250986692013692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_57
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 504
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7b30c49482188e0800000000000000
+      internalID: -1693027689641560153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_58
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 504
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a492341d484b990800000000000000
+      internalID: -7371120655788848593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_59
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 504
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d591814f35a9f70800000000000000
+      internalID: 9194753897071730003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_60
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a77e7f4f2f046f0800000000000000
+      internalID: -702294407924712816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b680b765e675d50800000000000000
+      internalID: 6725965886211517313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_62
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5a160b76bf98100800000000000000
+      internalID: 110896088606680549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_63
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27629db2bea55c780800000000000000
+      internalID: -8663418342077815182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_64
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62e57de7ab24cda0800000000000000
+      internalID: -5925563209469271442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_65
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a811b97b2da55a1a0800000000000000
+      internalID: -6798928201375870582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_66
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4981a1bae057410800000000000000
+      internalID: 1474100581073720557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_67
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b30484ca2672150800000000000000
+      internalID: 5847751133249944325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_68
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3b209b8fcec41b0800000000000000
+      internalID: -5670897277766290489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_69
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564483674aaa75a60800000000000000
+      internalID: 7662780914328945765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_70
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014d5544564260090800000000000000
+      internalID: -8068721665030892528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_71
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 456
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d496a9804a4b8a0800000000000000
+      internalID: -6290222422672454394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_72
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 408
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdef2e04f2ea02240800000000000000
+      internalID: 4764999923733298908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_73
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 408
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594065b0bedc51b70800000000000000
+      internalID: 8869221450567255189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_74
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 408
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bcb01905d66fa10800000000000000
+      internalID: 1942860482055228173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_75
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 408
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf7dc3af20e39010800000000000000
+      internalID: 1194544821399551938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_76
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 408
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8293e9b93b3e0fb70800000000000000
+      internalID: 8930888421625182504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_77
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 408
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47e4eb6cf0ac3710800000000000000
+      internalID: 1674390167477348173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_78
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 408
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850f5b90a5a229a70800000000000000
+      internalID: 8832168385425305688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_79
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 408
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7264342e1e7ca6900800000000000000
+      internalID: 678574466850309671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_80
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 408
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80954c4d70b67ac80800000000000000
+      internalID: -8311556905910380280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_81
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 408
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c453dea890132330800000000000000
+      internalID: 3684807168073356480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_82
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 408
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2b208bd159f3760800000000000000
+      internalID: 7439829064313123555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_83
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 408
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4a200d4815b1dc0800000000000000
+      internalID: -3667247840695769857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_84
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ba985704ddd48f0800000000000000
+      internalID: -554543910177101004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_85
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a5e752e7c03b2f0800000000000000
+      internalID: -958408559765333485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_86
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83257723faf9aa040800000000000000
+      internalID: 4659712339282973240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_87
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6927b9e170e56b680800000000000000
+      internalID: -8739694642194582890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_88
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ced24ae8796f32d0800000000000000
+      internalID: -3296800434164670778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_89
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032096a7e5b1dd7a0800000000000000
+      internalID: -6350889806927953360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_90
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4349e086421b6c0800000000000000
+      internalID: -4129479353982241548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_91
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a80a91e0ec1c7cc0800000000000000
+      internalID: -3712060240676910935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_92
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05533fa09fe8c160800000000000000
+      internalID: 7046145021714846986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_93
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcffe98f8fdf8f40800000000000000
+      internalID: 5733046658253454512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_94
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb501f49c8e5ba20800000000000000
+      internalID: 3077621871690144754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_95
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272e2421c4cc9e620800000000000000
+      internalID: 2803996870110798450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_96
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6c35722450f9200800000000000000
+      internalID: 188875491058632391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_97
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadb6575e62ab9760800000000000000
+      internalID: 7465739402092133807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_98
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b382f69d37b707c30800000000000000
+      internalID: 4355116577166665787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_99
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c853f529890d3f40800000000000000
+      internalID: 5709730387227531456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_100
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9736cfb6032792930800000000000000
+      internalID: 4118948886502728569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_101
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2804c0d8ed0d68860800000000000000
+      internalID: 7531937081091440770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_102
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d63aaf8ce59adc60800000000000000
+      internalID: 7843746544274257621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_103
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0aef016fea4de30800000000000000
+      internalID: 4527435897284501725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_104
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a18d4c172b0b600800000000000000
+      internalID: 482081361832188463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_105
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493aab8d8f362d340800000000000000
+      internalID: 4887078466089558932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_106
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fb601725948ab80800000000000000
+      internalID: -8383370087917764719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_107
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758c0201b007cb9a0800000000000000
+      internalID: -6215970192860592041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_108
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdc67b59ffe27b90800000000000000
+      internalID: -7245464996225299020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_109
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d2790a9c9c31780800000000000000
+      internalID: -8713398986211906223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_110
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421c49268a2300900800000000000000
+      internalID: 648574045131161892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_111
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f235adb936b67c0800000000000000
+      internalID: -4077055516619886833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_112
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650997d073ccb9450800000000000000
+      internalID: 6096691057397436502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_113
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e949b09436323d0800000000000000
+      internalID: -3232630942143832418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_114
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3ef16401e3c4d10800000000000000
+      internalID: 2111130564946813893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_115
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e54a2c0e4f9b3340800000000000000
+      internalID: 4844640981727462886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_116
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadb4bb0bcb8bec70800000000000000
+      internalID: 9001441984421084586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_117
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0332a6d567f24d0800000000000000
+      internalID: -3157174670178701091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_118
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a26f4c031d865a40800000000000000
+      internalID: 5356623919754207911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_119
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bba88cd54f8d4c0800000000000000
+      internalID: -4262388363672503472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_120
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801f7744fb9854c00800000000000000
+      internalID: 884264356428640520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_121
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fc29b1771bb8890800000000000000
+      internalID: -7454669633059893417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_122
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc5ccbfb6de25c10800000000000000
+      internalID: 2040954629194013946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_123
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966bdd15bd33af4c0800000000000000
+      internalID: -4253029881033673111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_124
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945bde0b22ec680a0800000000000000
+      internalID: -6879584732369275575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_125
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c26a607d7bf03fe0800000000000000
+      internalID: -1211191783587159356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_126
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207d8ae7c146864a0800000000000000
+      internalID: -6599915180364605694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_127
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f373c6bb29423e320800000000000000
+      internalID: 2585950823669053247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_128
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ec4cbb5d2cd8420800000000000000
+      internalID: 2633975580315668012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_129
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3e884ec5b2f09b0800000000000000
+      internalID: -5111819374071061509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_130
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26483c742175b93f0800000000000000
+      internalID: -893024365077887902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_131
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0038bc5109dc3aa0800000000000000
+      internalID: -6179825988785393652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_132
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4727830416e36d0800000000000000
+      internalID: -3008860572584086275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_133
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d850fb899879c8500800000000000000
+      internalID: 399861084158100877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_134
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae549bb0c289655e0800000000000000
+      internalID: -1921180876084263446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_135
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f41cd644c44950b0800000000000000
+      internalID: -5739480640313879303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_136
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb8de0a7acd73210800000000000000
+      internalID: 1312760428919360450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_137
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f10b0e5434566f90800000000000000
+      internalID: -6960783590161710607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_138
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298b4f46e78edb4e0800000000000000
+      internalID: -1964158232906385262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_139
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57036c3a4b1840a70800000000000000
+      internalID: 8792294985375821941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_140
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40882d135e350be90800000000000000
+      internalID: -7012012375967365116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_141
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67369d03b585a6e60800000000000000
+      internalID: 7956268840388223862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_142
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e85efc7177ddf10800000000000000
+      internalID: 2296122329184701957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_143
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edec01cd10aa04030800000000000000
+      internalID: 3476965837293801182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_144
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2537b4441191160800000000000000
+      internalID: 6996642481118073519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_145
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa9f9c152d33a3b0800000000000000
+      internalID: -5502487090113307989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_146
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea6d63386c3126e0800000000000000
+      internalID: -1864142352517600534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_147
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7595ff603cf259560800000000000000
+      internalID: 7319809284043135319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_148
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b631e8fa68663c0800000000000000
+      internalID: -4366654700128081002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_149
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb3a07bbb3f74980800000000000000
+      internalID: -8554600979611632710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_150
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339cd09f550023560800000000000000
+      internalID: 7291891115916904755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_151
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fc65daea13b4190800000000000000
+      internalID: -7977227688654483621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_152
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1010243367448ab50800000000000000
+      internalID: 6604604127995625729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_153
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f9c7d54d6beebe0800000000000000
+      internalID: -1446017407121580187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_154
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d3592eed529ff50800000000000000
+      internalID: 6915600342018505999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_155
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fc9830e195cfff0800000000000000
+      internalID: -1027914463588483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_156
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9974582b3f4a02c00800000000000000
+      internalID: 873879694288963481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_157
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d472f0eea4c66c800800000000000000
+      internalID: 632311866769483597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_158
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1a066ad3ea8b9e0800000000000000
+      internalID: -1605341687349992999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_159
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c229cc785b8a3d0800000000000000
+      internalID: -3195104340762022784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_160
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf3ba3c82257ae90800000000000000
+      internalID: -7014547559571308610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_161
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3092644eb0c52210800000000000000
+      internalID: 1307663190244626495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_162
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f27f89935846ae0800000000000000
+      internalID: -1556973088737382539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_163
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5007b33f8853faa0800000000000000
+      internalID: -6128457295849914273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_164
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf433b844ccba260800000000000000
+      internalID: 7110001031499698109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_165
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654ac53d7a2494d00800000000000000
+      internalID: 957369684365976662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_166
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e915bb875c31980800000000000000
+      internalID: -8569288543626486128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_167
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487f603194d1571a0800000000000000
+      internalID: -6812506661638965372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_168
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2b9b7691d93a0e0800000000000000
+      internalID: -2259789855569890570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_169
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e2ed210e7617420800000000000000
+      internalID: 2625994269820595834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_170
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aead4fbd668284c0800000000000000
+      internalID: -4286716089384194392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_171
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6551fb890e27b6d30800000000000000
+      internalID: 4425757367782544726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_172
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51a0f76d54ea7430800000000000000
+      internalID: 3781585926957867355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_173
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b427b2f42dd891700800000000000000
+      internalID: 511595967094157899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_174
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c582cdccf6304c0800000000000000
+      internalID: -4322488291687900141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_175
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ec4296d38a69050800000000000000
+      internalID: 5807013751251324544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_176
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5731d2ca0c4f91ae0800000000000000
+      internalID: -1577961086057114763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_177
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb943d4b651ae2b0800000000000000
+      internalID: -5554603639807108156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_178
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649dd3ece3ac6e0a0800000000000000
+      internalID: -6852567411900688058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Snow Bros 2 With New Elves - Nick_179
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1945252809e13e280800000000000000
+      internalID: -9015328423055043439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
